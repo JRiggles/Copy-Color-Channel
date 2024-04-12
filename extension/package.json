@@ -1,0 +1,18 @@
+{
+    "name": "copy-color-channel",
+    "displayName": "Copy Color Channel",
+    "description": "Copy a specific color channel to a new layer",
+    "version": "1.0.0",
+    "author": { "name": "John Riggles",
+                "email": "jriggles@icloud.com",
+                "url": "https://jriggl.es/" },
+    "contributors": [ ],
+    "publisher": "sudo_whoami",
+    "license": "MIT",
+    "categories": [ "Scripts" ],
+    "contributes": {
+      "scripts": [
+          { "path": "./copy-color-channel.lua" }
+      ]
+    }
+  }
