@@ -9,7 +9,7 @@
 - Initial Release!
 
 ##
-This Aseprite extension allows you copy a specific color channel (i.e. the red, green, or blue part) of the currently selected cel to a new layer.
+This Aseprite extension allows you to copy a specific color channel (i.e. the red, green, or blue part) of the currently selected cel to a new layer.
 
 You can also choose to copy from the composite color channels, cyan (green + blue), magenta (red + blue), and yellow (red + green).
 
